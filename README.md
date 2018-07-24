@@ -1,5 +1,9 @@
 # Python技术练级手册
 
+![author](https://img.shields.io/badge/Author-Escape-blue.svg)
+![license](https://img.shields.io/badge/License-MIT-orange.svg)
+![languages](https://img.shields.io/badge/Languages-Python-green.svg)
+
 ![python-advanced-guide](/images/python-advanced-guide.png)
 
 ## 1. 简单入门 - <温故而知新，可以为师矣>
