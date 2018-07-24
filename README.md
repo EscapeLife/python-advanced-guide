@@ -2,9 +2,7 @@
 
 ![python-advanced-guide](/images/python-advanced-guide.png)
 
-## 1. 简单入门
-
-> **温故而知新，可以为师矣**
+## 1. 简单入门 - 温故而知新，可以为师矣
 
 - **【博客文章】**
   - [Pythonista技术练级手册](https://escapelife.github.io/post/Pythonista%E6%8A%80%E6%9C%AF%E7%BB%83%E7%BA%A7%E6%89%8B%E5%86%8C/)
@@ -38,24 +36,6 @@
   - [Python网络编程入门](https://escapelife.github.io/post/Python%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/)
   - [Python网络编程进阶](https://escapelife.github.io/post/Python%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E8%BF%9B%E9%98%B6/)
   - [Python包管理和虚拟环境](https://escapelife.github.io/post/Python%E5%8C%85%E7%AE%A1%E7%90%86%E5%92%8C%E8%99%9A%E6%8B%9F%E7%8E%AF%E5%A2%83/)
-
-
-> **敏而好学，不耻下问**
-
-- **【相关模块】**
-  - []()
-
-
-> **学而时习之，不亦说乎**
-
-- **【练习作业】**
-  - []()
-
-
-> **学而不思则罔，思而不学则殆**
-
-- **1.4 实战项目**
-  - []()
 
 --------------------
 
