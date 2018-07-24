@@ -1,10 +1,12 @@
 # Python技术练级手册
 
+![python-advanced-guide](/images/python-advanced-guide.png)
+
 ## 1. 简单入门
 
 > **温故而知新，可以为师矣**
 
-- **1.1 博客文章**
+- **【博客文章】**
   - [Pythonista技术练级手册](https://escapelife.github.io/post/Pythonista%E6%8A%80%E6%9C%AF%E7%BB%83%E7%BA%A7%E6%89%8B%E5%86%8C/)
   - [Python程序的安装](https://escapelife.github.io/post/Python%E7%A8%8B%E5%BA%8F%E7%9A%84%E5%AE%89%E8%A3%85/)
   - [Python字符串和数值](https://escapelife.github.io/post/Python%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8C%E6%95%B0%E5%80%BC/)
@@ -40,13 +42,13 @@
 
 > **敏而好学，不耻下问**
 
-- **1.2 相关模块**
+- **【相关模块】**
   - []()
 
 
 > **学而时习之，不亦说乎**
 
-- **1.3 练习作业**
+- **【练习作业】**
   - []()
 
 
