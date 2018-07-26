@@ -55,7 +55,7 @@
 ## 2. 快速进阶
 
 - **【博客文章】**
-  - [Python数据结构]()
+  - [Python数据结构](https://escapelife.github.io/post/Python%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/)
 
 - **【相关模块】**
   - []()
