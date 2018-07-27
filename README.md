@@ -57,6 +57,7 @@
 - **【博客文章】**
   - [Python数据结构](https://escapelife.github.io/post/Python%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/)
   - [Python字典和集合](https://escapelife.github.io/post/Python%E5%AD%97%E5%85%B8%E5%92%8C%E9%9B%86%E5%90%88/)
+  - [Python中str、bytes和unicode](https://escapelife.github.io/post/Python%E4%B8%ADstr%E3%80%81bytes%E5%92%8Cunicode/)
 
 - **【相关模块】**
   - []()
