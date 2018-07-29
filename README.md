@@ -60,6 +60,7 @@
   - [Python中str、bytes和unicode](https://escapelife.github.io/post/Python%E4%B8%ADstr%E3%80%81bytes%E5%92%8Cunicode/)
   - [Python垃圾回收](https://escapelife.github.io/post/Python%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6/)
   - [Python模块包导入](https://escapelife.github.io/post/Python%E6%A8%A1%E5%9D%97%E5%8C%85%E5%AF%BC%E5%85%A5/)
+  - [Python描述符](https://escapelife.github.io/post/Python%E6%8F%8F%E8%BF%B0%E7%AC%A6/)
 
 - **【相关模块】**
   - []()
