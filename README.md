@@ -67,7 +67,7 @@
   - [Python抽象语法树](https://escapelife.github.io/post/Python%E6%8A%BD%E8%B1%A1%E8%AF%AD%E6%B3%95%E6%A0%91/)
 
 - **【相关模块】**
-  - []()
+  - [内置模块之数据结构](https://escapelife.github.io/post/%E5%86%85%E7%BD%AE%E6%A8%A1%E5%9D%97%E4%B9%8B%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/)
 
 - **【练习作业】**
   - []()
