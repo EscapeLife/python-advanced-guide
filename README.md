@@ -30,7 +30,6 @@
   - [Python魔法方法进阶](https://escapelife.github.io/post/Python%E9%AD%94%E6%B3%95%E6%96%B9%E6%B3%95%E8%BF%9B%E9%98%B6/)
   - [Python函数式编程](https://escapelife.github.io/post/Python%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B/)
   - [Python装饰器](https://escapelife.github.io/post/Python%E8%A3%85%E9%A5%B0%E5%99%A8/)
-  - [Python标准库之functools](https://escapelife.github.io/post/Python%E6%A0%87%E5%87%86%E5%BA%93%E4%B9%8Bfunctools/)
   - [Python常见内建模块](https://escapelife.github.io/post/Python%E5%B8%B8%E8%A7%81%E5%86%85%E5%BB%BA%E6%A8%A1%E5%9D%97/)
   - [Python常见第三方库](https://escapelife.github.io/post/Python%E5%B8%B8%E8%A7%81%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BA%93/)
   - [Python迭代器、生成器和协程](https://escapelife.github.io/post/Python%E8%BF%AD%E4%BB%A3%E5%99%A8%E3%80%81%E7%94%9F%E6%88%90%E5%99%A8%E5%92%8C%E5%8D%8F%E7%A8%8B/)
@@ -44,7 +43,8 @@
   - [Python包管理和虚拟环境](https://escapelife.github.io/post/Python%E5%8C%85%E7%AE%A1%E7%90%86%E5%92%8C%E8%99%9A%E6%8B%9F%E7%8E%AF%E5%A2%83/)
 
 - **【相关模块】**
-  - []()
+  - [内置标准库之functools](https://escapelife.github.io/post/Python%E6%A0%87%E5%87%86%E5%BA%93%E4%B9%8Bfunctools/)
+  - [内置标准库之collections](https://escapelife.github.io/post/%E5%86%85%E7%BD%AE%E6%A0%87%E5%87%86%E5%BA%93%E4%B9%8Bcollections/)
 
 - **【练习作业】**
   - []()
