@@ -64,6 +64,7 @@
   - [Python装饰器和描述符的应用](https://escapelife.github.io/post/Python%E8%A3%85%E9%A5%B0%E5%99%A8%E5%92%8C%E6%8F%8F%E8%BF%B0%E7%AC%A6%E7%9A%84%E5%BA%94%E7%94%A8/)
   - [Python元类](https://escapelife.github.io/post/Python%E5%85%83%E7%B1%BB/)
   - [Python抽象基类](https://escapelife.github.io/post/Python%E6%8A%BD%E8%B1%A1%E5%9F%BA%E7%B1%BB/)
+  - [Python抽象语法树](https://escapelife.github.io/post/Python%E6%8A%BD%E8%B1%A1%E8%AF%AD%E6%B3%95%E6%A0%91/)
 
 - **【相关模块】**
   - []()
