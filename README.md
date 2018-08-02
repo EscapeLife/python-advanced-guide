@@ -47,7 +47,7 @@
   - [内置标准库之collections](https://escapelife.github.io/post/%E5%86%85%E7%BD%AE%E6%A0%87%E5%87%86%E5%BA%93%E4%B9%8Bcollections/)
 
 - **【练习作业】**
-  - []()
+  - [Python入门第一次练习](https://escapelife.github.io/post/Python%E5%85%A5%E9%97%A8%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BB%83%E4%B9%A0/)
 
 - **【实战项目】**
   - []()
