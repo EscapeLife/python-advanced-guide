@@ -48,6 +48,7 @@
 
 - **【练习作业】**
   - [Python入门第一次练习](https://escapelife.github.io/post/Python%E5%85%A5%E9%97%A8%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BB%83%E4%B9%A0/)
+  - [Python入门第二次练习](https://escapelife.github.io/post/Python%E5%85%A5%E9%97%A8%E7%AC%AC%E4%BA%8C%E6%AC%A1%E7%BB%83%E4%B9%A0/#7-%E5%87%BD%E6%95%B0%E8%B0%83%E7%94%A8%E8%AE%A1%E6%97%B6)
 
 - **【实战项目】**
   - []()
