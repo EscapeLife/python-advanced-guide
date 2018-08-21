@@ -41,6 +41,7 @@
   - [Python网络编程入门](https://escapelife.github.io/post/Python%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/)
   - [Python网络编程进阶](https://escapelife.github.io/post/Python%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E8%BF%9B%E9%98%B6/)
   - [Python包管理和虚拟环境](https://escapelife.github.io/post/Python%E5%8C%85%E7%AE%A1%E7%90%86%E5%92%8C%E8%99%9A%E6%8B%9F%E7%8E%AF%E5%A2%83/)
+  - [热烈欢迎Python3.7的到来](https://escapelife.github.io/post/%E7%83%AD%E7%83%88%E6%AC%A2%E8%BF%8EPython3.7%E7%9A%84%E5%88%B0%E6%9D%A5/)
 
 - **【相关模块】**
   - [内置标准库之functools](https://escapelife.github.io/post/Python%E6%A0%87%E5%87%86%E5%BA%93%E4%B9%8Bfunctools/)
