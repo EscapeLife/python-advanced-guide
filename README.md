@@ -47,7 +47,7 @@
   - [内置标准库之functools](https://escapelife.github.io/post/Python%E6%A0%87%E5%87%86%E5%BA%93%E4%B9%8Bfunctools/)
   - [内置标准库之collections](https://escapelife.github.io/post/%E5%86%85%E7%BD%AE%E6%A0%87%E5%87%86%E5%BA%93%E4%B9%8Bcollections/)
   - [第三方扩展库之attrs](https://escapelife.github.io/post/%E7%AC%AC%E4%B8%89%E6%96%B9%E6%89%A9%E5%B1%95%E5%BA%93%E4%B9%8Battrs/)
-  - [第三方扩展库之Requests]()
+  - [第三方扩展库之requests](https://escapelife.github.io/post/%E7%AC%AC%E4%B8%89%E6%96%B9%E6%89%A9%E5%B1%95%E5%BA%93%E4%B9%8Brequests/)
 
 - **【练习作业】**
   - [Python入门第一次练习](https://escapelife.github.io/post/Python%E5%85%A5%E9%97%A8%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BB%83%E4%B9%A0/)
