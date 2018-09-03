@@ -1,10 +1,10 @@
 # Python技术练级手册
 
-![author](https://img.shields.io/badge/author-Escape-blue.svg)
-![build](https://img.shields.io/badge/build-passing-brightgreen.svg)
-![languages](https://img.shields.io/badge/languages-Python3.6-green.svg)
-![license](https://img.shields.io/badge/license-MIT-orange.svg)
-![contributions](https://img.shields.io/badge/contributions-welcome-ff69b4.svg)
+![Author](https://img.shields.io/badge/author-Escape-blue.svg)
+![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
+![Languages](https://img.shields.io/badge/languages-Python3.7-green.svg)
+![License](https://img.shields.io/badge/license-MIT-orange.svg)
+![Contributions](https://img.shields.io/badge/contributions-welcome-ff69b4.svg)
 
 ![python-advanced-guide](/images/python-advanced-guide.png)
 
