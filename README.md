@@ -8,7 +8,7 @@
 
 ![python-advanced-guide](/images/python-advanced-guide.png)
 
-## 1. 简单入门
+## 1. Python简单入门
 
 - **【博客文章】**
   - [Pythonista技术练级手册](https://escapelife.github.io/post/Pythonista%E6%8A%80%E6%9C%AF%E7%BB%83%E7%BA%A7%E6%89%8B%E5%86%8C/)
@@ -56,7 +56,7 @@
 - **【实战项目】**
   - []()
 
-## 2. 快速进阶
+## 2. Python快速进阶
 
 - **【博客文章】**
   - [Python数据结构](https://escapelife.github.io/post/Python%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/)
@@ -79,7 +79,7 @@
 - **【实战项目】**
   - []()
 
-## 3. 网络爬虫
+## 3. Python网络爬虫
 
 - **【博客文章】**
   - []()
@@ -93,7 +93,7 @@
 - **【实战项目】**
   - []()
 
-## 4. 后端开发
+## 4. Python后端开发
 
 - **【博客文章】**
   - []()
@@ -107,7 +107,7 @@
 - **【实战项目】**
   - []()
 
-## 5. 前端开发
+## 5. Python前端开发
 
 - **【博客文章】**
   - []()
@@ -121,7 +121,7 @@
 - **【实战项目】**
   - []()
 
-## 6. 微信开发
+## 6. Python微信开发
 
 - **【博客文章】**
   - []()
@@ -134,5 +134,11 @@
 
 - **【实战项目】**
   - []()
+	
+## 7. Python知识扩展
+
+- **【博客文章】**
+	- [vpn - 科学上网](https://github.com/haoel/haoel.github.io)
+  - [algo - 数据结构和算法必知必会](https://github.com/wangzheng0822/algo)
 
 持续更新中......
