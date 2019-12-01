@@ -138,7 +138,9 @@
 ## 7. Python知识扩展
 
 - **【博客文章】**
-	- [vpn - 科学上网](https://github.com/haoel/haoel.github.io)
+  - [vpn - 科学上网](https://github.com/haoel/haoel.github.io)
+  - [interview - Python语音特性](https://github.com/taizilongxu/interview_python)
   - [algo - 数据结构和算法必知必会](https://github.com/wangzheng0822/algo)
+  - [craftsman - Python工匠](https://github.com/piglei/one-python-craftsman)
 
 持续更新中......
