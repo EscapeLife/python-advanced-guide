@@ -140,6 +140,8 @@
 - **【博客文章】**
   - [vpn - 科学上网](https://github.com/haoel/haoel.github.io)
   - [interview - Python语音特性](https://github.com/taizilongxu/interview_python)
+  - [problem - Python相关问题](https://taizilongxu.gitbooks.io/stackoverflow-about-python/content/index.html)
+  - [craftsman - Python工匠](https://github.com/piglei/one-python-craftsman)
   - [algo - 数据结构和算法必知必会](https://github.com/wangzheng0822/algo)
   - [craftsman - Python工匠](https://github.com/piglei/one-python-craftsman)
 
