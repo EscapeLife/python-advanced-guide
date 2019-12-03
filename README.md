@@ -151,26 +151,32 @@
 
 > ****
 
-- **【博客文章】**
-  - []()
-
-- **【相关模块】**
-  - []()
-
-- **【练习作业】**
-  - []()
-
 - **【实战项目】**
-  - []()
+  - [awesome-python-webapp - 廖老师的Python入门教程中的实践项目的代码](https://github.com/michaelliao/awesome-python-webapp)
+  - [django-blog-tutorial - 使用Django从零开发一个个人博客系统](https://github.com/zmrenwu/django-blog-tutorial)
+  - [records - 支持大多数主流关系数据库的原生SQL查询第三方库(只有500行代码)](https://github.com/kennethreitz/records)
+- **【免费书籍】**
+  - [《图说设计模式》](https://design-patterns.readthedocs.io/zh_CN/latest/index.html#)
+  - [《Python Cookbook 3rd 中文版》](https://python3-cookbook.readthedocs.io/zh_CN/latest/)
+
+- **【视频课程】**
+  - [《计算机程序的构造和解释》](https://github.com/DeathKing/Learning-SICP)
+- **【算法知识】**
+  - [algo - 数据结构和算法必知必会](https://github.com/wangzheng0822/algo)
+  - [algorithm - 要成为一个有一定水平的程序员](https://github.com/qiwsir/algorithm)
+  - [algorithms - 基本算法、数据结构的Python实现](https://github.com/keon/algorithms)
+  - [Interview - 简历指南+LeetCode+Kaggle](https://github.com/apachecn/Interview)
+  - [LeetCodeAnimation - 用动画的形式呈现解LeetCode题目的思路](https://github.com/MisterBooo/LeetCodeAnimation)
 
 ## 8. Python知识扩展
 
 - **【博客文章】**
+  - [github - 漫游指南](https://github.com/phodal/github)
   - [vpn - 科学上网](https://github.com/haoel/haoel.github.io)
   - [interview - Python语音特性](https://github.com/taizilongxu/interview_python)
   - [problem - Python相关问题](https://taizilongxu.gitbooks.io/stackoverflow-about-python/content/index.html)
   - [craftsman - Python工匠](https://github.com/piglei/one-python-craftsman)
-  - [algo - 数据结构和算法必知必会](https://github.com/wangzheng0822/algo)
   - [craftsman - Python工匠](https://github.com/piglei/one-python-craftsman)
+  - [python - 资源大全](https://github.com/vinta/awesome-python)
 
 持续更新中......
