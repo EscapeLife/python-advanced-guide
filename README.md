@@ -10,6 +10,8 @@
 
 ## 1. Python简单入门
 
+> ****
+
 - **【博客文章】**
   - [Pythonista技术练级手册](https://escapelife.github.io/post/Pythonista%E6%8A%80%E6%9C%AF%E7%BB%83%E7%BA%A7%E6%89%8B%E5%86%8C/)
   - [Python程序的安装](https://escapelife.github.io/post/Python%E7%A8%8B%E5%BA%8F%E7%9A%84%E5%AE%89%E8%A3%85/)
@@ -58,6 +60,8 @@
 
 ## 2. Python快速进阶
 
+> ****
+
 - **【博客文章】**
   - [Python数据结构](https://escapelife.github.io/post/Python%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/)
   - [Python字典和集合](https://escapelife.github.io/post/Python%E5%AD%97%E5%85%B8%E5%92%8C%E9%9B%86%E5%90%88/)
@@ -81,6 +85,8 @@
 
 ## 3. Python网络爬虫
 
+> ****
+
 - **【博客文章】**
   - []()
 
@@ -94,6 +100,8 @@
   - []()
 
 ## 4. Python后端开发
+
+> ****
 
 - **【博客文章】**
   - []()
@@ -109,6 +117,8 @@
 
 ## 5. Python前端开发
 
+> ****
+
 - **【博客文章】**
   - []()
 
@@ -123,6 +133,8 @@
 
 ## 6. Python微信开发
 
+> ****
+
 - **【博客文章】**
   - []()
 
@@ -134,8 +146,24 @@
 
 - **【实战项目】**
   - []()
-	
-## 7. Python知识扩展
+
+## 7. Python项目实战
+
+> ****
+
+- **【博客文章】**
+  - []()
+
+- **【相关模块】**
+  - []()
+
+- **【练习作业】**
+  - []()
+
+- **【实战项目】**
+  - []()
+
+## 8. Python知识扩展
 
 - **【博客文章】**
   - [vpn - 科学上网](https://github.com/haoel/haoel.github.io)
