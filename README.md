@@ -162,6 +162,7 @@
 - **【视频课程】**
   - [《计算机程序的构造和解释》](https://github.com/DeathKing/Learning-SICP)
 - **【算法知识】**
+  - [python_data_structures_and_algorithms - 中文数据结构和算法教程](https://github.com/PegasusWang/python_data_structures_and_algorithms)
   - [algo - 数据结构和算法必知必会](https://github.com/wangzheng0822/algo)
   - [algorithm - 要成为一个有一定水平的程序员](https://github.com/qiwsir/algorithm)
   - [algorithms - 基本算法、数据结构的Python实现](https://github.com/keon/algorithms)
